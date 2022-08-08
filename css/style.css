@@ -1,0 +1,158 @@
+header{
+    
+    padding: 5px 0;
+}
+.c-nav{
+   
+}
+.head{
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    color: #76c38f;
+}
+.menu{
+   
+}
+.menu ul li a{
+color: #76c38f !important;
+line-height: 24px;
+text-transform: capitalize;
+padding: 0 24px !important;
+
+}
+
+.nsc{
+    
+}
+.btn-signin{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    line-height: 19px;
+    padding: 12px 28px;
+    background-color: #ff7214;
+    border: 0;
+    border-radius: 33px;
+}
+
+
+
+/*header end*/
+
+
+* {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter';
+        }
+        
+        body {
+            height: 100vh;
+            display: grid;
+            place-items: center;
+            background: #fafafa;
+        }
+        
+        .flex {
+            width: 80%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .flex div {
+            width: 150px;
+            height: 150px;
+            padding: 50px 0;
+            margin: 10px;
+            text-align: center;
+            border-radius: 5px;
+            background: #19f;
+            color: #fff;
+            box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.2);
+        }
+       .h3 {
+    font-size: 23px;
+}
+
+/*aos.com minhaz */
+.box{
+    min-height: 450px;
+}
+/*wos.js start*/
+/*parallax jqury plugin kaj kra na*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+/*parallax jqury plugin kaj kra na*/
+
+/*curved-text start*/
+#text1
+{
+    margin:           3.0em 0.0em;
+    overflow:         hidden;
+    font:             normal normal normal 2.0em/1.5 'Open Sans Light', sans-serif;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+
+/*slick slider start*/
+.autoplay{
+    padding-bottom: 40px;
+}
+/*slick slider end*/
+
+/*sepatial feature start*/
+.speacial{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.c_tittle p{
+    
+    color: #ff7214;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.c_tittle h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #112e41;
+    
+}
+.h2{
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 22px;
+    color: #233646;
+    text-align: center;
+}
+.p{
+    text-align: center; 
+}
+.ws-item{
+    margin-top: 50px;
+}
+.c-p {
+    margin-top: 100px;
+    color: #ff7214;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    
+}
+.c-h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #112e41;
+    padding-bottom: 100px
+}
+/*sepatial feature end*/
+
+
+
+/*gallery start*/
+
+/*gallery end*/
